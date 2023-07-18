@@ -1,0 +1,37 @@
+section{
+    background-color: #f43543;
+    height: 100vh;
+    position: relative;
+    z-index: 999;}
+.left{height: 520px;}
+.main-quote{
+    width: 70%;
+    height: auto;
+    margin: 60px auto;
+    padding: 30px;
+    background-color: #f43543;
+    box-shadow: 0 20px 65px rgba(87, 11, 16, 0.5);
+    border-radius: 30px;
+    position: relative;}
+.quote{color: #fdd8d8;}
+.right p.text-2, p.text-3{color: #fff;}
+.empty{
+    position: absolute;
+    width: 80%;
+    height: 400px;
+    background-color: #fff;
+    top: -40px;
+    left: 10%;
+    z-index: -1;}
+.text-2,.text-3{font-size: 60px;}
+.text-4{
+    width: 80%;
+    margin: 0 auto;
+    background-color: #fff;
+    color: #f43543;}
+.btn{
+    background-color: #fff;
+    color: #f43543;
+    font-weight: bold;}
+.btn:hover{
+    background-color: #000; color: #fff;}
